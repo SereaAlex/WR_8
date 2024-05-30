@@ -1,0 +1,14 @@
+Regular Implementation vs Parallel Implementation
+
+File: mat96.in
+RAM Time: 1.00 seconds
+Disk Time: 1.00 seconds
+------------------------------
+File: mat512.in
+RAM Time: 1.00 seconds
+Disk Time: 1.00 seconds
+------------------------------
+File: mat10020.in
+RAM Time: 1.00 seconds
+Disk Time: 1.00 seconds
+------------------------------
